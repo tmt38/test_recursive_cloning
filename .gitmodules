@@ -1,0 +1,3 @@
+[submodule "libs/lodash"]
+	path = libs/lodash
+	url = https://github.com/lodash/lodash.git

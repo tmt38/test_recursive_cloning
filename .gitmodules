@@ -1,0 +1,3 @@
+[submodule "submodule/test1"]
+	path = submodule/test1
+	url = https://github.com/tmt38/test_clone_recursive_2
